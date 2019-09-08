@@ -10,6 +10,7 @@ Marcello168个人博客
 
 ### 最新
 
+* [Android 开机 自动启动应用](http://www.gongyonghui.cn/articles/2019/09/08/1567910049966.html)
 * [我在 GitHub 上的开源项目](http://www.gongyonghui.cn/my-github-repos)
 * [Flutter 常用的第三方框架](http://www.gongyonghui.cn/articles/2019/09/04/1567557946876.html)
 * [Flutter组件的生命周期](http://www.gongyonghui.cn/articles/2019/09/04/1567557442806.html)
