@@ -10,6 +10,7 @@ Marcello168个人博客
 
 ### 最新
 
+* [Flutter 错误的解决方法](http://www.gongyonghui.cn/articles/2019/09/10/1568118014823.html)
 * [Android 开机 自动启动应用](http://www.gongyonghui.cn/articles/2019/09/08/1567910049966.html)
 * [我在 GitHub 上的开源项目](http://www.gongyonghui.cn/my-github-repos)
 * [Flutter 常用的第三方框架](http://www.gongyonghui.cn/articles/2019/09/04/1567557946876.html)
