@@ -10,6 +10,7 @@ Marcello168个人博客
 
 ### 最新
 
+* [Python 自动整理图片文件夹为 Flutter 资源图片文件夹](http://www.gongyonghui.cn/articles/2019/10/13/1570955943394.html)
 * [Flutter Go 代码开发规范 0.1.0 版(转)](http://www.gongyonghui.cn/articles/2019/10/10/1570690335567.html)
 * [Flutter 错误的解决方法](http://www.gongyonghui.cn/articles/2019/09/10/1568118014823.html)
 * [Android 开机 自动启动应用](http://www.gongyonghui.cn/articles/2019/09/08/1567910049966.html)
