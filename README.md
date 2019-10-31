@@ -1,8 +1,8 @@
-<p align="center"><img alt="Marcello168个人博客" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
+<p align="center"><img alt="Marcello168个人博客" src="https://avatars3.githubusercontent.com/u/20309676?s=400&u=54ce16be65a73cb9f4fde68d31a6043dba251ec8&v=4"></p><h2 align="center">
 Marcello168个人博客
 </h2>
 
-<h4 align="center">记录精彩的程序人生</h4>
+<h4 align="center">鲜衣怒马提银枪，一日看尽长安花，此间少年。</h4>
 <p align="center"><a title="Marcello168个人博客" target="_blank" href="https://github.com/Marcello168/solo-blog"><img src="https://img.shields.io/github/last-commit/Marcello168/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/Marcello168/solo-blog"><img src="https://img.shields.io/github/repo-size/Marcello168/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.4-f1e05a.svg?style=flat-square&color=blueviolet"></a>
